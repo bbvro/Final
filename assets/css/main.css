@@ -79,7 +79,7 @@ section {
 }
 
 .section-bg {
-  background-image: url("/assets/img/bg.jpg");
+  background:rgb(212, 234, 223);
 }
 
 .section-header {
